@@ -22,4 +22,4 @@ I created an object called cell for each node in the array. I connected the cell
 My implementation of A* sacrifices memory in order to be fast. 
 
 ### Functions
-pathfinder(arr) -- where arr is a previously-defined array, return value must be a vector<char>
+`pathfinder(arr)` -- where arr is a previously-defined array, return value must be a vector<char>
